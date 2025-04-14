@@ -1,3 +1,6 @@
+https://i.pinimg.com/originals/12/7e/f5/127ef50a9e6bc3cbe762cf6d3ae4987e.gif
+
+
 <h1 align="center">Hi 👋, I'm Fanele</h1>
 <h3 align="center">A young Final Year Student from South Africa, doing Bachelor of Information Technology</h3>
 <img align="right alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
