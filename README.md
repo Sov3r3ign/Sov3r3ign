@@ -1,12 +1,22 @@
-https://i.pinimg.com/originals/12/7e/f5/127ef50a9e6bc3cbe762cf6d3ae4987e.gif
+<div align="center" style="justify-content:space between; display:flex; width:100%">
+  
+  ![Discord Banner GIF - Discord Banner Welcome - ค้นพบและแชร์ GIF](https://github.com/user-attachments/assets/7ab9b66e-b849-4c27-85f4-31e600385512)
+  
+</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Fanele</h1>
 <h3 align="center">A young Final Year Student from South Africa, doing Bachelor of Information Technology</h3>
+<div align="center" style="justify-content:space between; display:flex; width:100%">
 <img align="right alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sov3r3ign&label=Profile%20views&color=0e75b6&style=flat" alt="sov3r3ign" /> </p>
 
+</div>
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sov3r3ign" alt="sov3r3ign" /></a> </p>
+
 
 - 🔭 I’m currently learning **Design Patterns in C#, and Python**
 
