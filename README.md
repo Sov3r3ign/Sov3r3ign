@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Fanele</h1>
+<h1 align="center">Hi 👋, I'm Fanele or you can call me Sovereign</h1>
 <h3 align="center">Final Year Student from South Africa, doing Bachelor of Information Technology, driven by a deep interest in emerging technologies that blend the digital and human experience. I enjoy working on innovative projects, learning new tools and frameworks, and collaborating with like-minded individuals.</h3>
 <div align="center" style="justify-content:space between; display:flex; width:100%">
 <img align="right alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
