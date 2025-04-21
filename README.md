@@ -4,10 +4,13 @@
   
 </div>
 
+<h1 align="center">🌌 Yo! I'm Fanele 👋</h1>
+<h3 align="center">⚔️ Final Year Student | South Africa 🇿🇦 | Bachelor of Information Technology</h3>
+<p align="center">
+  <em>Driven by a deep passion for tech that fuses the digital with the human soul. 🚀<br>
+  I thrive in building cool things, exploring futuristic frameworks, and teaming up with curious minds. 🧠✨</em>
+</p>
 
-
-<h1 align="center">Hi 👋, I'm Fanele or you can call me Sovereign</h1>
-<h3 align="center">Final Year Student from South Africa, doing Bachelor of Information Technology, driven by a deep interest in emerging technologies that blend the digital and human experience. I enjoy working on innovative projects, learning new tools and frameworks, and collaborating with like-minded individuals.</h3>
 <div align="center" style="justify-content:space between; display:flex; width:100%">
 <img align="right alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
   
@@ -17,12 +20,10 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sov3r3ign" alt="sov3r3ign" /></a> </p>
 
-
-- 🔭 I’m currently learning **Design Patterns in C#, and Python**
-
-- 📫 How to reach me **fanelehlebani@gmail.com**
-
-- ⚡ Fun fact **Cold black Coffee tastes like a witch's brew**
+### 🔥 Currently Training My Coding Chakra:
+- 🔭 Learning: **Design Patterns** in `C#` and `Python`
+- 📬 Contact me: **fanelehlebani@gmail.com**
+- ⚡ Fun Fact: *Cold black coffee tastes like a witch's brew...☕🧙*
 
 
 <h3 align="left">Languages and Tools:</h3>
