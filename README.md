@@ -11,35 +11,35 @@
   I thrive in building cool things, exploring futuristic frameworks, and teaming up with curious minds. 🧠✨</em>
 </p>
 
+
+
 <div align="center" style="justify-content:space between; display:flex; width:100%">
 <img align="right alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sov3r3ign&label=Profile%20views&color=0e75b6&style=flat" alt="sov3r3ign" /> </p>
+
+ <h2 align="center"> 💫 About Me: </h2>
+   
+<p align="center"><b>🔥Currently Training My Coding Chakra:</b> </p>
+<p align="center">🔭Learning: Design Patterns in C# and Python </p>
+<p align="center">📬 Contact me: fanelehlebani@gmail.com</p>
+<p align="center">⚡ Fun Fact: Cold black coffee tastes like a witch's brew...☕🧙</p>
+
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sov3r3ign&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sov3r3ign&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sov3r3ign&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sov3r3ign&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sov3r3ign&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 </div>
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sov3r3ign" alt="sov3r3ign" /></a> </p>
-
-### 🔥 Currently Training My Coding Chakra:
-- 🔭 Learning: **Design Patterns** in `C#` and `Python`
-- 📬 Contact me: **fanelehlebani@gmail.com**
-- ⚡ Fun Fact: *Cold black coffee tastes like a witch's brew...☕🧙*
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sov3r3ign&show_icons=true&locale=en" alt="Top Languages"/>
-</p>
-<p align="center">
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sov3r3ign&show_icons=true&locale=en" alt="sov3r3ign" />
-</p>
-
-<p  align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sov3r3ign&" alt="sov3r3ign" />
-</p>
-
-
 
 
 ![snake gif](https://github.com/Sov3r3ign/Sov3r3ign/blob/output/github-snake-dark.svg)
