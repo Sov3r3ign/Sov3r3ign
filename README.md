@@ -42,4 +42,8 @@
 
 
 
+![snake gif](https://github.com/Sov3r3ign/Sov3r3ign/blob/output/github-snake-dark.svg)
+
+
+
 
