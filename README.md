@@ -4,7 +4,7 @@
   
 </div>
 
-<h1 align="center">🌌 Yo! I'm Fanele 👋</h1>
+<h1 align="center">🌌 Yo! Sovereign here 👋</h1>
 <h3 align="center">⚔️ Final Year Student | South Africa 🇿🇦 | Bachelor of Information Technology</h3>
 <p align="center">
   <em>Driven by a deep passion for tech that fuses the digital with the human soul. 🚀<br>
