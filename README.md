@@ -20,7 +20,7 @@
  <h2 align="center"> 💫 About Me: </h2>
    
 <p align="center"><b>🔥Currently Training My Coding Chakra:</b> </p>
-<p align="center">🔭Learning: Design Patterns in C#, Python and Mobile Development </p>
+<p align="center">🔭Learning: Machine Learning, Python and Information Technology management and governance... </p>
 <p align="center">📬 Contact me: fanelehlebani@gmail.com</p>
 <p align="center">⚡ Fun Fact: Cold black coffee tastes like a witch's brew...☕🧙</p>
 
