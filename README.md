@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">🌌 Ohayou! Sovereign here 👋</h1>
-<h3 align="center">⚔️ Final Year Student | South Africa 🇿🇦 | Bachelor of Information Technology</h3>
+<h3 align="center">⚔️ South Africa 🇿🇦 | Bachelor of Information Technology Graduate</h3>
 <p align="center">
   <em>Driven by a deep passion for tech that fuses the digital with the human soul. 🚀<br>
   I thrive in building cool things, exploring futuristic frameworks, and teaming up with curious minds. 🧠✨</em>
@@ -20,7 +20,7 @@
  <h2 align="center"> 💫 About Me: </h2>
    
 <p align="center"><b>🔥Currently Training My Coding Chakra:</b> </p>
-<p align="center">🔭Learning: Machine Learning, Python and Information Technology management and governance... </p>
+<p align="center">🔭Learning: Information Security, Mobile Development, Information Technology management and governance and Mathematics... </p>
 <p align="center">📬 Contact me: fanelehlebani@gmail.com</p>
 <p align="center">⚡ Fun Fact: Cold black coffee tastes like a witch's brew...☕🧙</p>
 
